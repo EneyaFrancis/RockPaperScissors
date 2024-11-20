@@ -21,7 +21,7 @@ def counter_bot(prev_play):
     return counters[prev_play]
 
 
-def adaptive_play(prev_play, player_history=[]):
+def adaptive_bot(prev_play, player_history=[]):
     """adapts to the player's last two moves to predict the next"""
     if not prev_play:
         player_history.clear()
