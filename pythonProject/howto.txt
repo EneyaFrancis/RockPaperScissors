@@ -1,0 +1,3 @@
+run the main.py to execute and witness the win percentage against each bot created
+
+up for improvement on how the player is to increase the win probabilty to over 70% next
